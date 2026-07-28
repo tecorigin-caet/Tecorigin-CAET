@@ -4,9 +4,15 @@
 
 ## 模型仓库
 
+大模型：
+
 **tecovllm_models** — 适配 Tecorigin 硬件的 VLLM 模型仓库
 
-**Deformable-DETR** — 需要适配 Tecorigin 硬件的模型仓库
+小模型：
+
+**Deformable-DETR** — 模型代码仓库
+
+**teco-modelzoo**  —  提交模型代码的仓库 
 
 ## 自定义算子库
 
