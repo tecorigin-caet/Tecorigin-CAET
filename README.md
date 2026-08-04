@@ -12,7 +12,7 @@
 
 **Deformable-DETR** — 源码仓库
 
-**teco-modelzoo**  —  提交模型代码的仓库 
+**teco-modelzoo**  —  提交适配模型代码的仓库 
 
 ## 自定义算子库
 
