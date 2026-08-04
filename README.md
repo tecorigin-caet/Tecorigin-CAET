@@ -10,7 +10,7 @@
 
 小模型：
 
-**Deformable-DETR** — 模型代码仓库
+**Deformable-DETR** — 源码仓库
 
 **teco-modelzoo**  —  提交模型代码的仓库 
 
