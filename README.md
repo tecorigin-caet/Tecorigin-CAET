@@ -6,11 +6,9 @@
 
 大模型：
 
-**tecovllm_models** — 适配 Tecorigin 硬件的 VLLM 模型仓库
+**tecovllm-modelzoo** — 适配 Tecorigin 硬件的 VLLM 模型仓库
 
 小模型：
-
-**Deformable-DETR** — 源码仓库
 
 **teco-modelzoo**  —  提交适配模型代码的仓库 
 
@@ -20,7 +18,7 @@
 
 ## 文档
 大模型：
-- [模型适配指南]()
+- [模型适配指南](https://github.com/Tecorigin/tecovllm-modelzoo/blob/main/doc/%E6%A8%A1%E5%9E%8B%E9%80%82%E9%85%8D%E6%8C%87%E5%8D%97.md)
   
 小模型：
 - [模型适配指南](https://github.com/Tecorigin/teco-modelzoo/blob/main/PyTorch/doc/%E6%A8%A1%E5%9E%8B%E9%80%82%E9%85%8D%E6%8C%87%E5%8D%97.md)
